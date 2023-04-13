@@ -1,0 +1,46 @@
+
+body{
+    background-color: #F6F1E9;
+    border-style: double;
+    text-align: center;
+    line-height: 1.5;
+}
+mark{
+    background-color: #BACDDB;
+    color: black;
+    font-weight: bold;
+}
+
+strong{
+    background-color:aquamarine;
+}
+
+img{
+    width: 15%;
+    margin-top: 15px;
+}
+
+.intro-text{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 17px ;
+    text-align: justify;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 6px;
+    width: 5%;
+    color:black;
+    margin-top: 50px;
+}
+
+ul{
+    text-align: center;
+    display: inline-block;
+    text-align: left;
+}
+
+.learn-more{
+    margin-bottom: 30px;
+}
